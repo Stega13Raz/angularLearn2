@@ -1,0 +1,11 @@
+.customPar {
+  display: none;
+}
+
+.isVisible {
+  display: block;
+}
+
+.backgroundBlue {
+  background: blue;
+}
